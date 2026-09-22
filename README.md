@@ -8,12 +8,13 @@
   </a>
 </p>
 
+<!-- Quick Action Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/rajesh-a-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/rajesh_02/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Knight_1910-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/rajesh_a_18" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-3★_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0a0a" alt="CodeChef" />
@@ -32,6 +33,80 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=i-am-rajesh-a&label=PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<!-- ==================== ENGINEERING SCORECARD ==================== -->
+<h3 align="center">📊 Engineering by the Numbers</h3>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td align="center" width="20%" style="padding: 12px; background: #0f172a; border-radius: 8px;">
+      <h2 style="color: #38bdf8; margin: 0;">1910</h2>
+      <sub><b>Peak LeetCode Rating</b></sub><br />
+      <small style="color: #94a3b8;">Top 4.86% Globally &bull; Knight</small>
+    </td>
+    <td align="center" width="20%" style="padding: 12px; background: #0f172a; border-radius: 8px;">
+      <h2 style="color: #38bdf8; margin: 0;">1,420+</h2>
+      <sub><b>Problems Conquered</b></sub><br />
+      <small style="color: #94a3b8;">LeetCode + CodeChef + CF</small>
+    </td>
+    <td align="center" width="20%" style="padding: 12px; background: #0f172a; border-radius: 8px;">
+      <h2 style="color: #22c55e; margin: 0;">9.37</h2>
+      <sub><b>Engineering CGPA</b></sub><br />
+      <small style="color: #94a3b8;">Chennai Inst. of Technology</small>
+    </td>
+    <td align="center" width="20%" style="padding: 12px; background: #0f172a; border-radius: 8px;">
+      <h2 style="color: #38bdf8; margin: 0;">3★</h2>
+      <sub><b>CodeChef Status</b></sub><br />
+      <small style="color: #94a3b8;">1615 Max Rating &bull; Div 2</small>
+    </td>
+    <td align="center" width="20%" style="padding: 12px; background: #0f172a; border-radius: 8px;">
+      <h2 style="color: #f59e0b; margin: 0;">Finalist</h2>
+      <sub><b>AI ASCEND 2026</b></sub><br />
+      <small style="color: #94a3b8;">National 24h Hackathon</small>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== INTERACTIVE TERMINAL ==================== -->
+<table width="100%" border="0" align="center">
+  <tr>
+    <td style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 14px; font-family: 'Fira Code', 'Courier New', monospace;">
+      <span style="color: #ff5f56;">●</span>&nbsp;<span style="color: #ffbd2e;">●</span>&nbsp;<span style="color: #27c93f;">●</span>
+      <span style="color: #8b949e; font-size: 13px; margin-left: 12px;">rajesh@cit-chennai:~</span>
+      <br /><br />
+      <span style="color: #38bdf8;">$</span> <span style="color: #f0f6fc;">npx whoami rajesh-a</span>
+      <pre style="color: #c9d1d9; font-size: 13px; margin: 8px 0 0 0; line-height: 1.5;">
+{
+  <span style="color: #79c0ff;">"engineer"</span>: <span style="color: #a5d6ff;">"Rajesh A"</span>,
+  <span style="color: #79c0ff;">"location"</span>: <span style="color: #a5d6ff;">"Chennai, Tamil Nadu, India"</span>,
+  <span style="color: #79c0ff;">"education"</span>: <span style="color: #a5d6ff;">"B.E. Computer Science and Engineering (2023–2027) @ CIT Chennai"</span>,
+  <span style="color: #79c0ff;">"cgpa"</span>: <span style="color: #7ee787;">"9.37 / 10"</span>,
+  <span style="color: #79c0ff;">"competitive_standing"</span>: <span style="color: #ffa657;">"LeetCode Knight (Top 4.86% | 1910) &amp; CodeChef 3★"</span>,
+  <span style="color: #79c0ff;">"specialization"</span>: [<span style="color: #a5d6ff;">"Sandboxed Runtimes"</span>, <span style="color: #a5d6ff;">"Distributed Cloud Systems"</span>, <span style="color: #a5d6ff;">"AI Multi-Agent Workflows"</span>],
+  <span style="color: #79c0ff;">"target_roles"</span>: [<span style="color: #a5d6ff;">"Software Development Engineer Intern"</span>, <span style="color: #a5d6ff;">"Full-Stack / Cloud Engineer"</span>]
+}</pre>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ==================== RECRUITER CHEAT SHEET ==================== -->
+<table width="100%" border="0" align="center">
+  <tr>
+    <td style="padding: 16px; background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%); border-left: 4px solid #38bdf8; border-radius: 8px;">
+      <h4 style="margin: 0 0 8px 0; color: #38bdf8;">🎯 Why Hire Me as an SDE Intern? (Recruiter TL;DR)</h4>
+      <ul style="margin: 0; padding-left: 20px; color: #e2e8f0; line-height: 1.6;">
+        <li><b>Proven Algorithmic Depth:</b> Knight badge on LeetCode (top 4.86% globally, 867+ solved) and 3★ on CodeChef prove fast, optimal problem-solving under strict constraints.</li>
+        <li><b>Systems &amp; Security Mindset:</b> Built <i>DevLab</i> with strict browser sandboxing (CSP headers, Web Worker loop execution, postMessage interceptors) instead of vulnerable naive execution.</li>
+        <li><b>Cloud &amp; Applied AI:</b> Architected event-driven distributed systems utilizing Node.js, AWS DynamoDB, AWS SNS, and Google Gemini AI multi-agent orchestration.</li>
+        <li><b>Consistent Top-Tier Execution:</b> 9.37 / 10 academic CGPA, national hackathon finalist, and multiple industry internship experiences.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">About Me</h2>
 
@@ -60,25 +135,32 @@
   <b>Philosophy:</b> <i>"First, solve the problem. Then, write the code."</i>
 </p>
 
+<!-- ==================== ARCHITECTURAL HIGHLIGHTS ==================== -->
+<h2 align="center">🏗️ How I Think as an Engineer: Architecture Highlights</h2>
+
 <table width="100%" border="0" align="center">
   <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🚀 Flagship Project</h4>
-      <p><b>DevLab Platform</b><br /><sub>Cloud-Based Sandboxed Front-End Evaluation</sub></p>
+    <td width="50%" style="padding: 16px; background: #0f172a; border-radius: 8px; vertical-align: top;">
+      <h4 style="color: #38bdf8; margin: 0 0 8px 0;">🔒 DevLab: Safe Browser Code Execution</h4>
+      <p style="color: #cbd5e1; font-size: 13px; line-height: 1.5; margin: 0 0 8px 0;">
+        <b>The Challenge:</b> How do you let users write and run arbitrary HTML/JS safely in the browser without freezing the UI or introducing XSS exploits?
+      </p>
+      <ul style="color: #94a3b8; font-size: 12px; margin: 0; padding-left: 18px;">
+        <li><b>Isolated Boundary:</b> Sandboxed <code>iframe</code> stripped of same-origin permissions with strict CSP headers.</li>
+        <li><b>Loop Guard:</b> Web Worker loop-detection AST parser that intercepts and halts infinite loops.</li>
+        <li><b>Stream Intercept:</b> Overrode <code>window.console</code> to relay logs safely through <code>postMessage</code>.</li>
+      </ul>
     </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🧠 Active Deep Dives</h4>
-      <p><b>DSA & LeetCode Knight (1910)</b><br /><sub>Multi-Agent AI & Cloud Systems</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🏆 Competitive Highlights</h4>
-      <p><b>Top 4.86% Globally & 3★ CodeChef</b><br /><sub>AI ASCEND 2026 Hackathon Finalist</sub></p>
-    </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🤝 Collaboration</h4>
-      <p><b>Full-Stack, Cloud & AI Systems</b><br /><sub>Open to SDE internships & impactful projects</sub></p>
+    <td width="50%" style="padding: 16px; background: #0f172a; border-radius: 8px; vertical-align: top;">
+      <h4 style="color: #38bdf8; margin: 0 0 8px 0;">🗺️ Smart Waste AI: Dynamic Graph Logistics</h4>
+      <p style="color: #cbd5e1; font-size: 13px; line-height: 1.5; margin: 0 0 8px 0;">
+        <b>The Challenge:</b> How do you optimize urban waste collection schedules in real-time based on dynamic bin capacities and traffic?
+      </p>
+      <ul style="color: #94a3b8; font-size: 12px; margin: 0; padding-left: 18px;">
+        <li><b>Graph Engine:</b> Applied Dijkstra's algorithm across weighted GIS coordinate graphs for optimal pathing.</li>
+        <li><b>Event-Driven Sync:</b> Node.js microservice streaming sensor state to AWS DynamoDB.</li>
+        <li><b>Alert Pipeline:</b> Instant route change recalculations broadcast to driver devices via AWS SNS.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -117,6 +199,18 @@
     <td align="center" style="padding: 22px;">
       <h3>Smart Waste Monitoring & Route Optimization AI</h3>
       <p><i>AI-powered logistics system utilizing Dijkstra’s algorithm and GIS spatial data to calculate dynamic vehicle collection paths, synced in real-time via Node.js, AWS DynamoDB, and AWS SNS.</i></p>
+      <br />
+      <p>
+        <a href="https://github.com/i-am-rajesh-a" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0a0a0a" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 22px;">
+      <h3>BuySmart AI: Smart Procurement AI System</h3>
+      <p><i>Autonomous procurement platform powered by multi-agent architectures, integrating Google Gemini AI and Amazon APIs for vendor scorecards, automated purchasing, and invoice validation.</i></p>
       <br />
       <p>
         <a href="https://github.com/i-am-rajesh-a" target="_blank">
