@@ -22,6 +22,9 @@
   <a href="https://codeforces.com/profile/rajesh180206" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1162_Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0a0a" alt="Codeforces" />
   </a>
+  <a href="https://www.instagram.com/rajesh_a06/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
   <a href="mailto:rajesh180206@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-0284C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
@@ -373,12 +376,16 @@ flowchart TD
 <h2 align="center">📈 GitHub Analytics &amp; Telemetry</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i-am-rajesh-a&show_icons=true&bg_color=0a0a0a&title_color=38bdf8&text_color=f3f4f6&icon_color=38bdf8&border_color=0284c7&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-rajesh-a&layout=compact&bg_color=0a0a0a&title_color=38bdf8&text_color=f3f4f6&border_color=0284c7&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-am-rajesh-a&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=i-am-rajesh-a&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-rajesh-a&theme=dark&hide_border=false&border=0284c7&background=0a0a0a&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-am-rajesh-a&theme=tokyonight" width="100%" style="max-width: 690px;" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=i-am-rajesh-a&theme=dark&hide_border=false&border=0284c7&background=0a0a0a&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=999999" width="100%" style="max-width: 495px;" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -441,9 +448,9 @@ flowchart TD
 <h2 align="center">🤝 Let's Connect &amp; Collaborate</h2>
 <p align="center"><i>Open to discussions on distributed systems, software engineering internships, algorithmic challenges, and innovative open-source projects.</i></p>
 
-<table border="0" align="center">
+<table border="0" align="center" width="100%">
   <tr>
-    <td align="center" width="220" style="padding: 18px; background: #0b1120; border: 1px solid #1e293b; border-radius: 10px;">
+    <td align="center" width="25%" style="padding: 18px; background: #0b1120; border: 1px solid #1e293b; border-radius: 10px;">
       <a href="https://www.linkedin.com/in/rajesh-a-profile" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
         <br /><br />
@@ -452,7 +459,7 @@ flowchart TD
       <br />
       <sub style="color: #94a3b8;"><b>Professional Network</b></sub>
     </td>
-    <td align="center" width="220" style="padding: 18px; background: #0b1120; border: 1px solid #1e293b; border-radius: 10px;">
+    <td align="center" width="25%" style="padding: 18px; background: #0b1120; border: 1px solid #1e293b; border-radius: 10px;">
       <a href="https://leetcode.com/u/rajesh_02/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-Knight_1910-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode" />
       </a>
@@ -463,7 +470,16 @@ flowchart TD
       <br />
       <sub style="color: #94a3b8;"><b>Competitive Profiles</b></sub>
     </td>
-    <td align="center" width="220" style="padding: 18px; background: #0b1120; border: 1px solid #1e293b; border-radius: 10px;">
+    <td align="center" width="25%" style="padding: 18px; background: #0b1120; border: 1px solid #1e293b; border-radius: 10px;">
+      <a href="https://www.instagram.com/rajesh_a06/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Instagram-@rajesh__a06-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+      </a>
+      <br />
+      <sub style="color: #94a3b8;"><b>Social &amp; Tech Updates</b></sub>
+    </td>
+    <td align="center" width="25%" style="padding: 18px; background: #0b1120; border: 1px solid #1e293b; border-radius: 10px;">
       <a href="mailto:rajesh180206@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
         <br /><br />
