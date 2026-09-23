@@ -87,8 +87,8 @@
     <rect x="-180" y="-3" width="360" height="3" rx="1.5" fill="url(#cyberCyan)" />
 
     <!-- Senior Engineering Title -->
-    <text x="0" y="32" class="hero-title">FULL-STACK ENGINEER &bull; SYSTEMS &amp; AI BUILDER</text>
-    <text x="0" y="60" class="hero-sub">Chennai Institute of Technology &bull; B.E. Computer Science &bull; CGPA: 9.37 / 10</text>
+    <text x="0" y="32" class="hero-title">FULL-STACK ENGINEER &#8226; SYSTEMS &amp; AI BUILDER</text>
+    <text x="0" y="60" class="hero-sub">Chennai Institute of Technology &#8226; B.E. Computer Science &#8226; CGPA: 9.37 / 10</text>
   </g>
 
   <!-- Bottom Metric Pods (Glassmorphic Badges) -->
